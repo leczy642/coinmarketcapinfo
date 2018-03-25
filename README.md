@@ -2,7 +2,9 @@
 Retrieve coinmarketcap information on any cryptocurrency
 
 # License
-This software is provided free for download and modification
+This software is distributed under the [LGPL 2.1](http://www.gnu.org/licenses/lgpl-2.1.html) license. Please read LICENSE for information on the
+
++This software is distributed under the [LGPL 2.1](http://www.gnu.org/licenses/lgpl-2.1.html) license. Please read LICENSE for information on the software availability and distribution.
 
 # Installation
 1.  Download and Unzip
